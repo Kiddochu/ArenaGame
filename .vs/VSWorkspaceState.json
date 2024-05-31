@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AreanGame",
+    "\\AreanGame\\ArenaGame",
+    "\\AreanGame\\ArenaGame\\Heroes",
+    "\\AreanGame\\ArenaGame\\Weapons",
+    "\\AreanGame\\ConsoleArenaGame",
+    "\\AreanGame\\WinFormArenaGame"
+  ],
+  "SelectedNode": "\\AreanGame\\ArenaGame\\Weapons\\Sword.cs",
+  "PreviewInSolutionExplorer": false
+}
